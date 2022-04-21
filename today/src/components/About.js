@@ -67,11 +67,7 @@ function About() {
                 <Col xs={4} md={2} className='tech-icons'>
                     <DiJava/>
                 </Col>
-            
-                <Col xs={4} md={2} className='tech-icons'>
-                    <DiGithub/>
-                </Col>
-            
+
                 <Col xs={4} md={2} className='tech-icons'>
                     <SiFlask/>
                 </Col>
@@ -100,6 +96,9 @@ function About() {
                 </Col>
                 <Col xs={4} md={2} className='tech-icons'>
                     <CgYoutube/>
+                </Col>
+                <Col xs={4} md={2} className='tech-icons'>
+                    <DiGithub/>
                 </Col>
             </Row>
         </Container>
