@@ -27,7 +27,7 @@ function About() {
                         <blockquote className="blockquote mb-2">
                             <p style={{ textAlign:'justify' }}>
                                 Hi Everyone, I am <span className="purple">Hoang Kiet </span>from <span className="purple">Binh Phuoc, VietNam.</span>
-                                <br />I am a student at Ho Chi Minh City Open University, I'm pursuing a career in React Development.
+                                <br />I am a student at Ho Chi Minh City Open University, I am pursuing a career in React Development.
                             </p>
                             <br/>
                             <ul>

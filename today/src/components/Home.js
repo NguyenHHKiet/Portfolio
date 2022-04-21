@@ -57,7 +57,7 @@ function Home() {
               I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />I can use canonical languages like
               <i>
                 <b className="purple"> C++, Javascript and Python. </b>
               </i>
@@ -68,20 +68,14 @@ function Home() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Deep Learning
                 </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
+                {" "}and{" "}
                 <b className="purple">
-                  {" "}
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp;like
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
