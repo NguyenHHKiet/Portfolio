@@ -33,7 +33,7 @@ function Header() {
     >
       <Container>
         <Navbar.Brand href="/" className="d-flex">
-          HoangKiet
+          HOANGKIET
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -88,7 +88,7 @@ function Header() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href='https://github.com/NguyenHHKiet/Portfolio/tree/main/today'
                 target="_blank"
                 className="fork-btn-inner"
               >

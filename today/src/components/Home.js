@@ -51,7 +51,7 @@ function Home() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              LET ME <span className='blue'> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
               I fell in love with programming and I have at least learnt
@@ -59,25 +59,25 @@ function Home() {
               <br />
               <br />I can use canonical languages like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className='blue'> C#, Javascript and Python. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
+                <b className='blue'>Web Technologies and Products </b> and
                 also in areas related to{" "}
-                <b className="purple">
+                <b className='blue'>
                   Deep Learning
                 </b>
                 {" "}and{" "}
-                <b className="purple">
+                <b className='blue'>
                   Modern Javascript Library and Frameworks
                 </b>
               </i>
               &nbsp;like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className='blue'> React.js and Next.js</b>
               </i>
             </p>
           </Col>
