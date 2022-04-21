@@ -83,7 +83,10 @@
     font-size: 2.4em !important;
     color: #b562d6 !important;
   }
-  
+  .myAvatar {
+    justify-content: center;
+    padding-top: 9em ;
+  }
   @media (max-width: 767px) {
     .Typewriter__wrapper {
       font-size: 1.4em !important;
@@ -93,19 +96,13 @@
     .Typewriter__cursor {
       display: none !important;
     }
-  }
-  
-  .myAvtar {
-    justify-content: center !important;
-    padding-top: 9em !important;
-  }
-  
-  @media (max-width: 767px) {
-    .myAvtar {
+    .myAvatar {
       padding-top: 2em !important;
       padding-bottom: 2em !important;
     }
   }
+  
+  
   
   .home-about-section {
     position: relative;
