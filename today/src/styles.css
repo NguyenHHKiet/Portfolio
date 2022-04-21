@@ -17,6 +17,9 @@ html {
 .purple {
   color: var(--imp-text-color) !important;
 }
+.blue {
+  color:deepskyblue ;
+}
 
 button:focus {
   box-shadow: none !important;
