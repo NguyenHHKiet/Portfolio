@@ -30,12 +30,13 @@ function About() {
                                 <br />I am a student at Ho Chi Minh City Open University, I am pursuing a career in React Development.
                             </p>
                             <br/>
-                            <ul>
+                            <p>Some interesting hobbies in my life:</p>
+                            <ul className='blue'>
                                 <li className='about-activity'>
                                     <ImCircleDown/> Traveling
                                 </li>
                                 <li className='about-activity'>
-                                    <ImCircleDown /> Ride a Bicycle
+                                    <ImCircleDown /> Ride Bicycle
                                 </li>
                                 <li className='about-activity'>
                                     <ImCircleDown/> Watching Movies
